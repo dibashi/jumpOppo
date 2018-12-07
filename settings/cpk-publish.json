@@ -1,0 +1,12 @@
+{
+  "deviceOrientation": "portrait",
+  "icon": "/assets/icon.jpg",
+  "logLevel": "log",
+  "minPlatformVersion": "1020",
+  "name": "境之边缘",
+  "npmPath": "F:\\node\\node_modules",
+  "package": "com.berlin.jzby.vivo",
+  "runRelease": false,
+  "versionCode": "1",
+  "versionName": "1.0.0"
+}
